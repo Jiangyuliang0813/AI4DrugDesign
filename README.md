@@ -40,5 +40,12 @@
         [[paper](https://arxiv.org/abs/2003.03123)] [[code](https://github.com/xnuohz/DimeNet-dgl)]
 
 - Anti-body generation
+    - Fragment-Based Ligand Generation Guided By Geometric Deep Learning On Protein-Ligand Structure   
+        [[paper](https://www.biorxiv.org/content/10.1101/2022.03.17.484653v2)]
+    - Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets   
+        [[paper](https://proceedings.mlr.press/v162/peng22b.html)][[code](https://github.com/pengxingang/Pocket2Mol)]
+    - Structure-based Drug Design with Equivariant Diffusion Models   
+        [[paper](https://arxiv.org/abs/2210.13695)][[code](https://github.com/arneschneuing/DiffSBDD)]
+
 - Prediction of preotein structure
 
