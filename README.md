@@ -10,14 +10,15 @@
 - Paper
     - (ICLR 2022?) One Transformer Can Understand Both 2D & 3D Molecular Data   
         [[paper](https://arxiv.org/abs/2210.01765)][[code](https://github.com/lsj2408/Transformer-M)]
-    
-    - 
 
 - Lesson
     - Standford CS224W: Machine Learning with Graphs
         - http://web.stanford.edu/class/cs224w/
     
 ## 1. Geometric Deep Learning 
+- Tutorial
+    - Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges    
+    [[paper](https://arxiv.org/abs/2104.13478)]
 
 ## 2. Molecular Data Reprs 
 
@@ -39,7 +40,7 @@
     - Directional Message Passing for Molecular Graphs   
         [[paper](https://arxiv.org/abs/2003.03123)] [[code](https://github.com/xnuohz/DimeNet-dgl)]
 
-- Anti-body generation
+- Motif generation
     - Fragment-Based Ligand Generation Guided By Geometric Deep Learning On Protein-Ligand Structure   
         [[paper](https://www.biorxiv.org/content/10.1101/2022.03.17.484653v2)]
     - Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets   
@@ -48,4 +49,7 @@
         [[paper](https://arxiv.org/abs/2210.13695)][[code](https://github.com/arneschneuing/DiffSBDD)]
 
 - Prediction of preotein structure
-
+    - Highly accurate protein structure prediction with AlphaFold   
+        [[paper](https://www.nature.com/articles/s41586-021-03819-2)] [[code](https://github.com/deepmind/alphafold)]
+    - Improved protein structure prediction using potentials from deep learning    
+        [[paper](https://www.nature.com/articles/s41586-019-1923-7)]
