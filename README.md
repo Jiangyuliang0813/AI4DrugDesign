@@ -14,11 +14,19 @@
 - Lesson
     - Standford CS224W: Machine Learning with Graphs
         - http://web.stanford.edu/class/cs224w/
+
+- Survey
+    - Neural Structured Prediction for Inductive Node Classification   
+        [[paper](https://arxiv.org/abs/2204.07524)]
     
 ## 1. Geometric Deep Learning 
 - Tutorial
     - Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges    
-    [[paper](https://arxiv.org/abs/2104.13478)]
+        [[paper](https://arxiv.org/abs/2104.13478)]
+- Survey
+    - Geometrically Equivariant Graph Neural Networks: A Survey   
+        [[paper](https://openreview.net/forum?id=2fcVm9x69db&referrer=%5Bthe%20profile%20of%20Jiaqi%20Han%5D(%2Fprofile%3Fid%3D~Jiaqi_Han2))]
+
 
 ## 2. Molecular Data Reprs 
 
