@@ -29,9 +29,10 @@
 
 
 ## 2. Molecular Data Reprs 
-
+- Paper
+    - Spherical Message Passing for 3D Molecular Graphs   
+        [[paper](https://openreview.net/forum?id=givsRXsOt9r)][[code](https://github.com/divelab/DIG)]
 ## 3. Protein Data Reprs
-
 
 ## 4. Research Domain
 - Scoring Function 
@@ -47,6 +48,7 @@
         [[paper](https://arxiv.org/pdf/1706.08566.pdf)][[code](https://github.com/atomistic-machine-learning/SchNet)]
     - Directional Message Passing for Molecular Graphs   
         [[paper](https://arxiv.org/abs/2003.03123)] [[code](https://github.com/xnuohz/DimeNet-dgl)]
+    
 
 - Motif generation
     - Fragment-Based Ligand Generation Guided By Geometric Deep Learning On Protein-Ligand Structure   
