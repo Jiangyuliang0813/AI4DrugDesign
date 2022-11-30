@@ -32,6 +32,9 @@
 - Paper
     - Spherical Message Passing for 3D Molecular Graphs   
         [[paper](https://openreview.net/forum?id=givsRXsOt9r)][[code](https://github.com/divelab/DIG)]
+
+    - Molecular Contrastive Learning of Representations via Graph Neural Networks   
+        [[paper](https://arxiv.org/abs/2102.10056)][[code](https://github.com/yuyangw/MolCLR)]
 ## 3. Protein Data Reprs
 
 ## 4. Research Domain
